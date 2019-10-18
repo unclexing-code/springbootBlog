@@ -1,0 +1,32 @@
+23:54:29.864 [restartedMain] INFO  m.w.n.NoteBlogV4Application - Starting NoteBlogV4Application on unclexing with PID 1965 (/Users/zl/Desktop/blog/target/classes started by zl in /Users/zl/Desktop/blog) 
+23:54:29.871 [restartedMain] INFO  m.w.n.NoteBlogV4Application - The following profiles are active: noteblogv4 
+23:54:30.234 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+23:54:30.234 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+23:54:32.040 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[me.wuwenbin.noteblogv4.dao.mapper]' package. Please check your configuration. 
+23:54:32.421 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[me.wuwenbin.noteblogv4]' package. Please check your configuration. 
+23:54:32.511 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode. 
+23:54:32.850 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 325ms. Found 23 repository interfaces. 
+23:54:34.008 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$28b2236c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) 
+23:54:35.100 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...] 
+23:54:35.194 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.12.Final} 
+23:54:35.196 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found 
+23:54:35.565 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+23:54:35.947 [restartedMain] INFO  c.a.druid.pool.DruidDataSource - {dataSource-1} inited 
+23:57:18.349 [restartedMain] INFO  m.w.n.NoteBlogV4Application - Starting NoteBlogV4Application on unclexing with PID 1980 (/Users/zl/Desktop/blog/target/classes started by zl in /Users/zl/Desktop/blog) 
+23:57:18.370 [restartedMain] INFO  m.w.n.NoteBlogV4Application - The following profiles are active: noteblogv4 
+23:57:18.556 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+23:57:18.557 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
+23:57:20.194 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[me.wuwenbin.noteblogv4.dao.mapper]' package. Please check your configuration. 
+23:57:20.478 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[me.wuwenbin.noteblogv4]' package. Please check your configuration. 
+23:57:20.555 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode. 
+23:57:20.870 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 305ms. Found 23 repository interfaces. 
+23:57:21.774 [restartedMain] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f34e863d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying) 
+23:57:22.741 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...] 
+23:57:22.848 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.12.Final} 
+23:57:22.853 [restartedMain] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found 
+23:57:23.097 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final} 
+23:57:23.503 [restartedMain] INFO  c.a.druid.pool.DruidDataSource - {dataSource-1} inited 
